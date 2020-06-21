@@ -1,4 +1,6 @@
 # fd_proj
+HyperFace inspired architecture, leveraging multitask learning using VGG like backbone.
+Next step: Apply Mobilenet SSD kind of implematation with Kalman filter for tracking.
 
 Example output:
 [![Watch the video](https://img.youtube.com/vi/PfGYhnt4HaI/hqdefault.jpg)](https://www.youtube.com/watch?v=PfGYhnt4HaI)
